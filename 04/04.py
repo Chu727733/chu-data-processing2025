@@ -1,3 +1,5 @@
+https://code.visualstudio.com/
+python --version
 from flask import Flask, redirect, url_for, render_template, request, session
 app = Flask(__name__)
 app.secret_key = "#230dec61-fee8-4ef2-a791-36f9e680c9fc"
